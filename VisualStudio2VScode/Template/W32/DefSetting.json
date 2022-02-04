@@ -1,0 +1,9 @@
+{
+  "ProgValueMap": {
+    "$(OCSDK)": "$(SolutionDir)../../OCSDK/"
+  },
+  "Defines": [
+    "_WIN32",
+    "_MSC_VER=1400"
+  ]
+}

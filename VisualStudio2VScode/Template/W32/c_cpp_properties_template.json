@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "",
+      "includePath": [
+        "C:/Program Files (x86)/Microsoft Visual Studio 8/VC/atlmfc/include/",
+        "C:/Program Files (x86)/Microsoft Visual Studio 8/VC/include/",
+        "C:/Program Files (x86)/Microsoft Visual Studio 8/VC/crt/src/",
+        "C:/Program Files (x86)/Microsoft Visual Studio 8/VC/PlatformSDK/Include/"
+      ],
+      "defines": [ ],
+      "intelliSenseMode": "msvc-arm",
+      "cStandard": "c89",
+      "cppStandard": "c++98"
+    }
+  ],
+  "version": 4
+}
