@@ -37,6 +37,7 @@ namespace VisualStudio2VScode
                 // get project path
                 List<string> ProjList = null;
                 AnalysSolution(szSlnPath, out ProjList);
+                ProjList.Sort();
 
                 // workspace
                 JObject WorkSpaceJson = JObject.Parse(File.ReadAllText(szWorkSpaceJsonTemplatePath));
